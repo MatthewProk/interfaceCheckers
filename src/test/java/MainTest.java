@@ -14,6 +14,7 @@ public class MainTest extends WasHomePage {
                 .logOut()
                 .logIn()
                 .logOut()
+                .logIn()
                 .logIn();
     }
 }
